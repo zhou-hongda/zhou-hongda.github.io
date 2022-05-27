@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://Mortyda.github.io/</loc>
+    <lastmod>2022-05-24T14:10:51+08:00</lastmod>
+  </url><url>
+    <loc>https://Mortyda.github.io/post/</loc>
+    <lastmod>2022-05-24T14:10:51+08:00</lastmod>
+  </url><url>
+    <loc>https://Mortyda.github.io/post/blog/</loc>
+    <lastmod>2022-05-24T14:10:51+08:00</lastmod>
+  </url><url>
+    <loc>https://Mortyda.github.io/ablog/</loc>
+    <lastmod>2022-05-24T14:10:51+08:00</lastmod>
+  </url><url>
+    <loc>https://Mortyda.github.io/post/ablog/</loc>
+    <lastmod>2022-05-24T14:10:51+08:00</lastmod>
+  </url><url>
+    <loc>https://Mortyda.github.io/categories/</loc>
+  </url><url>
+    <loc>https://Mortyda.github.io/tags/</loc>
+  </url>
+</urlset>
