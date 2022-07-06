@@ -2,14 +2,13 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://github.com/Mortyda/Mortyda.github.io.git--buildDraft/html/</loc><lastmod>2022-06-08T00:21:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://github.com/Mortyda/Mortyda.github.io.git--buildDraft/</loc><lastmod>2022-06-08T00:21:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://github.com/Mortyda/Mortyda.github.io.git--buildDraft/posts/</loc><lastmod>2022-06-08T00:21:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://github.com/Mortyda/Mortyda.github.io.git--buildDraft/sort/</loc><lastmod>2022-06-08T00:21:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://github.com/Mortyda/Mortyda.github.io.git--buildDraft/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://github.com/Mortyda/Mortyda.github.io.git--buildDraft/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://github.com/Mortyda/Mortyda.github.io.git--buildDraft/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://github.com/Mortyda/Mortyda.github.io.git--buildDraft/tags/installation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://github.com/Mortyda/Mortyda.github.io.git--buildDraft/tags/content/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://github.com/Mortyda/Mortyda.github.io.git--buildDraft/tags/configuration/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://github.com/Mortyda/Mortyda.github.io.git--buildDraft/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://Mortyda.github.io--buildDraft/html/</loc><lastmod>2022-06-08T00:21:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://Mortyda.github.io--buildDraft/</loc><lastmod>2022-06-08T00:21:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://Mortyda.github.io--buildDraft/posts/</loc><lastmod>2022-06-08T00:21:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://Mortyda.github.io--buildDraft/sort/</loc><lastmod>2022-06-08T00:21:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://Mortyda.github.io--buildDraft/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://Mortyda.github.io--buildDraft/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://Mortyda.github.io--buildDraft/tags/installation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://Mortyda.github.io--buildDraft/tags/content/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://Mortyda.github.io--buildDraft/tags/configuration/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://Mortyda.github.io--buildDraft/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
