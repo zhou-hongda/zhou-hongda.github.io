@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>配置 - 标签 - mortyda的博客</title>
-        <link>https://Mortyda.github.io--buildDraft/tags/configuration/</link>
+        <link>https://github.com/Mortyda/Mortyda.github.io.git--buildDraft/tags/configuration/</link>
         <description>配置 - 标签 - mortyda的博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1610711584@qq.com (Mortyda)</managingEditor>
-            <webMaster>1610711584@qq.com (Mortyda)</webMaster><atom:link href="https://Mortyda.github.io--buildDraft/tags/configuration/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>1610711584@qq.com (Mortyda)</webMaster><atom:link href="https://github.com/Mortyda/Mortyda.github.io.git--buildDraft/tags/configuration/" rel="self" type="application/rss+xml" /></channel>
 </rss>
