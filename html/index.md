@@ -1,4 +1,4 @@
-# HTML标签
+# 网页初识和基础HTML标签
 
 
 <!--more-->
@@ -15,7 +15,7 @@
 
 1. 五大浏览器：IE，谷歌，火狐，edge，sufari
 
-2. 浏览器内核（了解）：![image-20220630110714413](image-20220630110714413.png)
+2. 浏览器内核（了解）：<img src="image-20220630110714413.png" alt="image-20220630110714413" style="zoom:67%;" />
 
 ## web标准
 
@@ -23,24 +23,24 @@
 
 2. web标准的构成（三者相互分离）：
 
-![Screenshot_20220630_111414_tv.danmaku.bili_edit_139783423934399](Screenshot_20220630_111414_tv.danmaku.bili_edit_139783423934399.jpg)
+<img src="Screenshot_20220630_111414_tv.danmaku.bili_edit_139783423934399.jpg" alt="Screenshot_20220630_111414_tv.danmaku.bili_edit_139783423934399" style="zoom: 50%;" />
 
 ## html标签:
 ### 标签分类及结构
 
-1. 双标签：
+#### 双标签：
 
  ```html
  <html> </html>  
  ```
 
-2. 单标签：
+#### 单标签：
 
  ```html
   <br />
  ```
 
-3. 包含关系
+#### 包含关系
 
 ``` html
 <head>
@@ -48,14 +48,14 @@
 </head>
 ```
 
-4. 并列关系
+#### 并列关系
 
 ```html
 <head></head>
 <body></body>
 ```
 
-5. 网页基本结构骨架：
+#### 网页基本结构骨架：
 
 ```html
 <!DOCTYPE html>//文档声明标签
@@ -73,7 +73,7 @@
 ```
 ### 常用标签
 
-1. 标题标签
+#### 标题标签
 
 ```html
     <h1>一级标题</h1>
@@ -84,7 +84,9 @@
     <h6>六级标题</h6>
 ```
 
-2. 段落与换行标签(不同段落之间会有间隙，但强制换行没有间隙)
+#### 段落与换行标签
+
+(不同段落之间会有间隙，但强制换行没有间隙)
 
 ```html
 	<p>第一段阿巴阿巴</p>
@@ -92,9 +94,9 @@
     <p>第二段(强制换行)<br/>阿巴阿巴</p>
 ```
 
-3. 文本格式化标签
+#### 文本格式化标签
 
-![Screenshot_20220704_190348_tv.danmaku.bili_edit_363041139744603](Screenshot_20220704_190348_tv.danmaku.bili_edit_363041139744603.jpg)
+<img src="Screenshot_20220704_190348_tv.danmaku.bili_edit_363041139744603.jpg" alt="Screenshot_20220704_190348_tv.danmaku.bili_edit_363041139744603" style="zoom:67%;" />
 
 ```html
 	<strong>加粗1</strong>
@@ -106,15 +108,17 @@
     <ins>下划线1</ins>
     <u>下划线2</u>
 ```
-4. 注释标签 （ctrl+/）与特殊字符
+#### 注释标签 （ctrl+/）与特殊字符
 
 ```html
 <!--此为注释-->
 ```
 
-![Screenshot_20220704_203916_tv.danmaku.bili_edit_368762422088522](Screenshot_20220704_203916_tv.danmaku.bili_edit_368762422088522.jpg)
+<img src="Screenshot_20220704_203916_tv.danmaku.bili_edit_368762422088522.jpg" alt="Screenshot_20220704_203916_tv.danmaku.bili_edit_368762422088522" style="zoom:67%;" />
 
-> <!--<div>和<span>->标签（无语义，用于布局）
+#### div和span标签
+
+（无语义，用于布局）
 
 ```html
 	<div>第一个盒子，div独占一行</div>
@@ -122,15 +126,19 @@
     <span>第三个盒子</span>
 ```
 
-5. 图像标签(设置宽高时如果只改变一个则纵横比不变)
+#### 图像标签
 
-![Screenshot_20220704_191822_tv.danmaku.bili_edit_364452169515221](Screenshot_20220704_191822_tv.danmaku.bili_edit_364452169515221.jpg)
+(设置宽高时如果只改变一个则纵横比不变)
+
+<img src="Screenshot_20220704_191822_tv.danmaku.bili_edit_364452169515221.jpg" alt="Screenshot_20220704_191822_tv.danmaku.bili_edit_364452169515221" style="zoom: 67%;" />
 
 ``` html
 <image src="文件路径2" alt="此为图像无法显示时的替换文本" title="鼠标移动到图片上的提示文本" width="500" height="100" border="15"/>
 ```
 
-6. 超链接标签（由一个页面链接到另一个页面）
+#### 超链接标签
+
+（由一个页面链接到另一个页面）
 
 ```html
 	<!----<a herf="跳转的链接地址" target="目标窗口的打开方式_self为默认模值，_blank为在新窗口打开">文本或图像</a>--->
@@ -151,13 +159,15 @@
     <h3 id="锚点1">锚点一详情</h3>
 ```
 
-7. 表格标签（用于显示数据）
+#### 表格标签
+
+（用于显示数据）
 
 - table标签创建表格，tr标签创建行，td标签创建相关单元格。对于表格第一行的单元格，使用th代替td作为表头标签进行突出
 
 - 表格属性一般在css中进行设置，此处做了解
 
-![Screenshot_20220704_205936_tv.danmaku.bili_edit_369981757774794](Screenshot_20220704_205936_tv.danmaku.bili_edit_369981757774794.jpg)
+<img src="Screenshot_20220704_205936_tv.danmaku.bili_edit_369981757774794.jpg" alt="Screenshot_20220704_205936_tv.danmaku.bili_edit_369981757774794" style="zoom:67%;" />
 
 - 表格结构标签：由于表格可能很长，因此将表格分为头部<thead>与主体<tbody>两大部分可以更好地表示表格语义
 
@@ -195,9 +205,11 @@
     </table>
 ```
 
-8. 列表标签（用于布局页面）
+#### 列表标签
 
-![Screenshot_20220704_212941_tv.danmaku.bili_edit_371815024542744](Screenshot_20220704_212941_tv.danmaku.bili_edit_371815024542744.jpg)
+（用于布局页面）
+
+<img src="Screenshot_20220704_212941_tv.danmaku.bili_edit_371815024542744.jpg" alt="Screenshot_20220704_212941_tv.danmaku.bili_edit_371815024542744" style="zoom:67%;" />
 
 ``` html
     <!-- 列表标签(相关属性在css中设置) -->
@@ -221,9 +233,11 @@
     </dl>
 ```
 
-9. 表单标签（用于收集用户信息，由表单域form，表单控件（表单元素）及提示信息3部分组成）
+#### 表单标签
 
-![Screenshot_20220705_094509_tv.danmaku.bili_edit_379852483589434](Screenshot_20220705_094509_tv.danmaku.bili_edit_379852483589434.jpg)
+（用于收集用户信息，由表单域form，表单控件（表单元素）及提示信息3部分组成）
+
+<img src="Screenshot_20220705_094509_tv.danmaku.bili_edit_379852483589434.jpg" alt="Screenshot_20220705_094509_tv.danmaku.bili_edit_379852483589434" style="zoom:67%;" />
 
 ```html
     <!-- 1.表单域标签<form> -->
@@ -287,12 +301,9 @@
         </textarea>
 ```
 
-10. 相对路径与绝对路径
+#### 相对路径与绝对路径
 
 - 相对路径：一引用文件夹所在位置为参考基础而建立的目录路径
-
-![image-20220704194234583](image-20220704194234583.png)
-
 - 绝对路径：指目录下的绝对位置，通常从盘符开始的路径
 
 
