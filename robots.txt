@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://Mortyda.github.io--buildDraft/sitemap.xml
+Sitemap: https://Mortyda.github.io/sitemap.xml
