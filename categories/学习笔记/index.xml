@@ -1,31 +1,31 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>学习笔记 - 分类 - 0x0007的博客</title>
-        <link>https://Mortyda.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+        <link>https://zhou-hongda.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
         <description>学习笔记 - 分类 - 0x0007的博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1610711584@qq.com (0x0007)</managingEditor>
-            <webMaster>1610711584@qq.com (0x0007)</webMaster><lastBuildDate>Sat, 24 Sep 2022 20:17:02 &#43;0800</lastBuildDate><atom:link href="https://Mortyda.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>1610711584@qq.com (0x0007)</webMaster><lastBuildDate>Sat, 24 Sep 2022 20:17:02 &#43;0800</lastBuildDate><atom:link href="https://zhou-hongda.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" rel="self" type="application/rss+xml" /><item>
     <title>cherno c&#43;&#43;教程笔记</title>
-    <link>https://Mortyda.github.io/%E5%AD%A6%E4%B9%A0cherno%E7%9A%84c-/</link>
+    <link>https://zhou-hongda.github.io/%E5%AD%A6%E4%B9%A0cherno%E7%9A%84c-/</link>
     <pubDate>Sat, 24 Sep 2022 20:17:02 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://Mortyda.github.io/%E5%AD%A6%E4%B9%A0cherno%E7%9A%84c-/</guid>
+    <guid>https://zhou-hongda.github.io/%E5%AD%A6%E4%B9%A0cherno%E7%9A%84c-/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>关于排序</title>
-    <link>https://Mortyda.github.io/sort/</link>
+    <link>https://zhou-hongda.github.io/sort/</link>
     <pubDate>Wed, 08 Jun 2022 00:21:30 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://Mortyda.github.io/sort/</guid>
+    <guid>https://zhou-hongda.github.io/sort/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>网页初识和基础HTML标签</title>
-    <link>https://Mortyda.github.io/html/</link>
+    <link>https://zhou-hongda.github.io/html/</link>
     <pubDate>Wed, 08 Jun 2022 00:21:30 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://Mortyda.github.io/html/</guid>
+    <guid>https://zhou-hongda.github.io/html/</guid>
     <description><![CDATA[<p>简单介绍了网页的概念，记录了一些基本的HTML标签</p>]]></description>
 </item>
 </channel>
