@@ -4,7 +4,23 @@
         <link>https://zhou-hongda.github.io/posts/</link>
         <description>所有文章 | 0x0007的博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1610711584@qq.com (0x0007)</managingEditor>
-            <webMaster>1610711584@qq.com (0x0007)</webMaster><lastBuildDate>Sat, 24 Sep 2022 20:17:02 &#43;0800</lastBuildDate><atom:link href="https://zhou-hongda.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>1610711584@qq.com (0x0007)</webMaster><lastBuildDate>Tue, 08 Nov 2022 21:05:33 &#43;0800</lastBuildDate><atom:link href="https://zhou-hongda.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>树的遍历之Morris遍历</title>
+    <link>https://zhou-hongda.github.io/%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86%E4%B9%8Bmorris%E9%81%8D%E5%8E%86/</link>
+    <pubDate>Tue, 08 Nov 2022 21:05:33 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://zhou-hongda.github.io/%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86%E4%B9%8Bmorris%E9%81%8D%E5%8E%86/</guid>
+    <description><![CDATA[有一种巧妙的方法可以在线性时间内，只占用常数空间来实现树的遍历。这种方法由 J. H. Morris 在 1979 年的论文「Traversing Binary Trees Simply and Cheaply」中首次提出，因此被称为 Morris 遍历。核心思想是利用树的大量空闲指针，实现空间开销的极限缩减（和线索二叉树底层原理相同）]]></description>
+</item>
+<item>
+    <title>图的遍历：dfs和bfs</title>
+    <link>https://zhou-hongda.github.io/%E5%9B%BE%E7%9A%84%E9%81%8D%E5%8E%86dfs%E5%92%8Cbfs/</link>
+    <pubDate>Wed, 26 Oct 2022 15:05:08 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://zhou-hongda.github.io/%E5%9B%BE%E7%9A%84%E9%81%8D%E5%8E%86dfs%E5%92%8Cbfs/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>cherno c&#43;&#43;教程笔记</title>
     <link>https://zhou-hongda.github.io/%E5%AD%A6%E4%B9%A0cherno%E7%9A%84c-/</link>
     <pubDate>Sat, 24 Sep 2022 20:17:02 &#43;0800</pubDate>
