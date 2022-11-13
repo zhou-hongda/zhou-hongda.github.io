@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>配置 - 标签 - 0x0007的博客</title>
-        <link>http//zhou-hongda.github.io--buildDraft/tags/configuration/</link>
+        <link>http//github.com/zhou-hongda/zhou-hongda.github.io--buildDraft/tags/configuration/</link>
         <description>配置 - 标签 - 0x0007的博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1610711584@qq.com (0x0007)</managingEditor>
-            <webMaster>1610711584@qq.com (0x0007)</webMaster><atom:link href="http//zhou-hongda.github.io--buildDraft/tags/configuration/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>1610711584@qq.com (0x0007)</webMaster><atom:link href="http//github.com/zhou-hongda/zhou-hongda.github.io--buildDraft/tags/configuration/" rel="self" type="application/rss+xml" /></channel>
 </rss>
