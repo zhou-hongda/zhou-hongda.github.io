@@ -2,10 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://zhou-hongda.github.io/</loc><lastmod>2023-04-23T21:44:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://zhou-hongda.github.io/posts/</loc><lastmod>2023-04-23T21:44:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://zhou-hongda.github.io/test/</loc><lastmod>2023-04-23T21:44:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://zhou-hongda.github.io/</loc><lastmod>2022-11-08T21:05:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://zhou-hongda.github.io/categories/</loc><lastmod>2022-11-08T21:05:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://zhou-hongda.github.io/posts/</loc><lastmod>2022-11-08T21:05:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://zhou-hongda.github.io/tags/</loc><lastmod>2022-11-08T21:05:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://zhou-hongda.github.io/%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86%E4%B9%8Bmorris%E9%81%8D%E5%8E%86/</loc><lastmod>2022-11-08T21:05:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://zhou-hongda.github.io/tags/%E7%AE%97%E6%B3%95/</loc><lastmod>2022-11-08T21:05:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
