@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>0x0007的博客</title>
+        <title>lf_Initative</title>
         <link>https://zhou-hongda.github.io/</link>
-        <description>Hugo theme - LoveIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1610711584@qq.com (0x0007)</managingEditor>
-            <webMaster>1610711584@qq.com (0x0007)</webMaster><lastBuildDate>Tue, 08 Nov 2022 21:05:33 &#43;0800</lastBuildDate>
+        <description>人心惟危，道心惟微，惟精惟一，允执厥中</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>852851198@qq.com (lf_Initative)</managingEditor>
+            <webMaster>852851198@qq.com (lf_Initative)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 08 Nov 2022 21:05:33 &#43;0800</lastBuildDate>
             <atom:link href="https://zhou-hongda.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>树的遍历之Morris遍历</title>

@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>数据结构 - 标签 - 0x0007的博客</title>
+        <title>数据结构 - 标签 - lf_Initative</title>
         <link>https://zhou-hongda.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</link>
-        <description>数据结构 - 标签 - 0x0007的博客</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1610711584@qq.com (0x0007)</managingEditor>
-            <webMaster>1610711584@qq.com (0x0007)</webMaster><lastBuildDate>Wed, 08 Jun 2022 00:21:30 &#43;0800</lastBuildDate><atom:link href="https://zhou-hongda.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" rel="self" type="application/rss+xml" /><item>
+        <description>数据结构 - 标签 - lf_Initative</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>852851198@qq.com (lf_Initative)</managingEditor>
+            <webMaster>852851198@qq.com (lf_Initative)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 08 Jun 2022 00:21:30 &#43;0800</lastBuildDate><atom:link href="https://zhou-hongda.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" rel="self" type="application/rss+xml" /><item>
     <title>关于排序</title>
     <link>https://zhou-hongda.github.io/sort/</link>
     <pubDate>Wed, 08 Jun 2022 00:21:30 &#43;0800</pubDate>

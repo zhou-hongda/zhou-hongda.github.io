@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>文档 - 分类 - 0x0007的博客</title>
+        <title>文档 - 分类 - lf_Initative</title>
         <link>https://zhou-hongda.github.io/categories/documentation/</link>
-        <description>文档 - 分类 - 0x0007的博客</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1610711584@qq.com (0x0007)</managingEditor>
-            <webMaster>1610711584@qq.com (0x0007)</webMaster><atom:link href="https://zhou-hongda.github.io/categories/documentation/" rel="self" type="application/rss+xml" /></channel>
+        <description>文档 - 分类 - lf_Initative</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>852851198@qq.com (lf_Initative)</managingEditor>
+            <webMaster>852851198@qq.com (lf_Initative)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://zhou-hongda.github.io/categories/documentation/" rel="self" type="application/rss+xml" /></channel>
 </rss>
